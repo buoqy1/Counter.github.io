@@ -1,0 +1,39 @@
+<nav class="nav__4" >
+	<ul class="nav__ul-4">
+		<li class="nav__li-4"><i class="fas fa-house"></i><a href="../index.html">		Inicio</a></li>
+		<li class="nav__li-4  map-an"><i class=" fas fa-bomb"></i><a href="../mapas.html"> 	Mapas </a>
+			<div class="nav__container-li-4">
+				<ul  >
+                			<li class="nav__li-ma-4r"><a href="ancient.html">	    Ancient</a></li>
+					<li class="nav__li-ma-4"><a href="dust2.html">			Dust 2</a></li>
+					<li class="nav__li-ma-4"><a href="inferno.html">	    Inferno</a></li>
+                           		<li class="nav__li-ma-4"><a href="mirage.html">	    4rage</a></li>
+					<li class="nav__li-ma-an"><a href="nuke.html">			Nuke</a></li>
+                            		<li class="nav__li-ma-4"><a href="overpass.html">		Overpass</a></li>
+					<li class="nav__li-ma-an"><a href="vertigo.html">	    Vertigo</a></li>
+				</ul>
+			</div>
+		</li>
+		<li class="nav__li-4"><i class="fa-solid fa-users"></i><a href="../acerca.html">		Acerca de Nosotros</a></li>
+	</ul>
+	<ul class="nav__responsive-ul-4">
+		<div class="nav__responsive-bottom-container">
+		<div class="nav__responsive-bottom"><i class="fa-solid fa-bars"></i></div>
+		</div>
+		<div class="nav__li-container-4">
+			<li class="nav__li-4"><i class="fas fa-house"></i><a href="../inicio">		Inicio</a></li>
+			<li class="nav__li-4 map"><i></i class="fas fa-bomb"><a href="../mapas.html"> 	Mapas </a>
+				<ul >
+                            		<li class="nav__responsive-li"><a href="ancient.html">	    Ancient</a></li>
+					<li class="nav__responsive-li"><a href="dust2.html">		Dust 2</a></li>
+					<li class="nav__responsive-li"><a href="inferno.html">	    Inferno</a></li>
+                            		<li class="nav__responsive-li"><a href="mirage.html">	    4rage</a></li>
+					<li class="nav__responsive-li"><a href="nuke.html">			Nuke</a></li>
+                            		<li class="nav__responsive-li"><a href="overpass.html">		Overpass</a></li>
+					<li class="nav__responsive-li"><a href="vertigo.html">	    Vertigo</a></li>
+				</ul>
+			</li>
+			<li class="nav__li-4"><a href="../acerca.html">		Acerca de Nosotros</a></li>
+		</div>
+	</ul>
+</nav>
